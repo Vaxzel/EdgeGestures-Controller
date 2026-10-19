@@ -2,10 +2,32 @@
 
 [![Android Version](https://img.shields.io/badge/Android-8.0%20--%2016%20(HyperOS%203.0)-green.svg)](https://android.com)
 [![Framework](https://img.shields.io/badge/Framework-LSPosed%20%7C%20KernelSU%20%7C%20Magisk-blue.svg)](https://github.com/LSPosed/LSPosed)
+[![Target App](https://img.shields.io/badge/Target%20App-Edge%20Gestures%20(com.ss.edgegestures)-informational.svg?logo=googleplay)](https://play.google.com/store/apps/details?id=com.ss.edgegestures)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/Vaxzel/EdgeGestures-Controller?color=brightgreen)](https://github.com/Vaxzel/EdgeGestures-Controller/releases/latest)
 
 Modul **LSPosed** dan aplikasi antarmuka kontroler modern untuk aplikasi **Edge Gestures** (`com.ss.edgegestures`). Proyek ini memungkinkan pengaktifan gestur navigasi pada kondisi layar terkunci / kamera aman, serta menyediakan fitur **penonaktifan gestur per-sisi (Kiri, Kanan, atau Bawah) secara selektif dan *real-time*** saat game atau aplikasi tertentu sedang berjalan.
+
+---
+
+### 🎯 Target Application (Aplikasi Target yang Di-Hook)
+
+<table>
+  <tr>
+    <td align="center" width="120" valign="middle">
+      <a href="https://play.google.com/store/apps/details?id=com.ss.edgegestures">
+        <img src="docs/assets/edgegestures_app_icon.png" width="96" height="96" alt="Edge Gestures Icon" style="border-radius: 20%;" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3 style="margin: 0;"><a href="https://play.google.com/store/apps/details?id=com.ss.edgegestures">Edge Gestures</a></h3>
+      <b>Developer:</b> ChYK the dev<br/>
+      <b>Package Name:</b> <code>com.ss.edgegestures</code><br/>
+      <b>Google Play Store:</b> <a href="https://play.google.com/store/apps/details?id=com.ss.edgegestures">https://play.google.com/store/apps/details?id=com.ss.edgegestures</a><br/>
+      <i>Modul LSPosed ini dibuat khusus untuk memodifikasi dan mengontrol aplikasi Edge Gestures di atas agar dapat tetap aktif di lockscreen / kamera serta mendukung penonaktifan gestur per-sisi secara dinamis ketika membuka aplikasi atau game tertentu.</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -82,7 +104,7 @@ Modul **LSPosed** dan aplikasi antarmuka kontroler modern untuk aplikasi **Edge 
 - **Perangkat Android**: Android 8.0 (API 26) hingga Android 16 (API 36+ / HyperOS 3.0).
 - **Akses Root**: KernelSU, Magisk (v24+), atau APatch.
 - **Framework Xposed**: LSPosed (Zygisk Release direkomendasikan).
-- **Aplikasi Target**: [Edge Gestures](https://play.google.com/store/apps/details?id=com.ss.edgegestures) terpasang di sistem.
+- **Aplikasi Target**: [Edge Gestures (`com.ss.edgegestures`)](https://play.google.com/store/apps/details?id=com.ss.edgegestures) terpasang di sistem.
 
 ---
 

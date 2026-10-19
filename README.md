@@ -3,7 +3,7 @@
 [![Android Version](https://img.shields.io/badge/Android-8.0%20--%2016%20(HyperOS%203.0)-green.svg)](https://android.com)
 [![Framework](https://img.shields.io/badge/Framework-LSPosed%20%7C%20KernelSU%20%7C%20Magisk-blue.svg)](https://github.com/LSPosed/LSPosed)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/Release-v2.0-brightgreen.svg)]()
+[![Release](https://img.shields.io/github/v/release/Vaxzel/EdgeGestures-Controller?color=brightgreen)](https://github.com/Vaxzel/EdgeGestures-Controller/releases/latest)
 
 Modul **LSPosed** dan aplikasi antarmuka kontroler modern untuk aplikasi **Edge Gestures** (`com.ss.edgegestures`). Proyek ini memungkinkan pengaktifan gestur navigasi pada kondisi layar terkunci / kamera aman, serta menyediakan fitur **penonaktifan gestur per-sisi (Kiri, Kanan, atau Bawah) secara selektif dan *real-time*** saat game atau aplikasi tertentu sedang berjalan.
 
